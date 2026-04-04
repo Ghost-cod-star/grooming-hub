@@ -1,0 +1,93 @@
+# IMAGES NEEDED FOR GROOMING HUB
+
+## Place ALL these images in: /assets/images/
+
+### Product Images (Required - 9 images):
+
+1. **Alpha_Beard_Oil.jpg**
+   - Description: Beard oil bottle product shot
+   - Example: Dark amber bottle with dropper, professional lighting
+
+2. **Precision_Metal_Razor.jpg**
+   - Description: Metal safety razor
+   - Example: Chrome or black metal razor, side view
+
+3. **Royal_Beard_Balm.jpg**
+   - Description: Beard balm tin or jar
+   - Example: Round metal tin with vintage label
+
+4. **Midnight_Shave_Cream.jpg**
+   - Description: Shaving cream container
+   - Example: Black tube or jar with modern design
+
+5. **Ironclad_Aftershave.jpg**
+   - Description: Aftershave bottle
+   - Example: Glass bottle with masculine design
+
+6. **Razor_Kit.jpg**
+   - Description: Complete razor kit set
+   - Example: Open wooden box with razor, brush, soap
+
+7. **beard_oil.jpg**
+   - Description: Another beard oil variant
+   - Example: Different style beard oil bottle
+
+8. **shaving_cream.jpg**
+   - Description: Another shaving cream variant
+   - Example: Traditional shaving cream bowl or tube
+
+9. **hero_dark.jpg**
+   - Description: Homepage hero banner image
+   - Example: Professional grooming scene, dark background
+   - Dimensions: 1920x800px minimum
+   - Style: Moody, masculine, premium feel
+
+### Image Specifications:
+
+**Format**: JPG (preferred), PNG, or WEBP
+**Size**: 800x800px minimum for products, 1920x800px for hero
+**File Size**: Under 2MB each
+**Background**: Clean, professional
+**Style**: Dark, masculine, premium aesthetic
+
+### Where to Get Images:
+
+1. **Free Stock Photos**:
+   - Unsplash.com (search: "men's grooming", "beard oil", "shaving")
+   - Pexels.com (search: "male grooming", "razor", "beard care")
+   - Pixabay.com (search: "shaving", "beard products")
+
+2. **Product Photography**:
+   - Take photos of actual grooming products
+   - Use good lighting and clean background
+   - Edit to match dark website theme
+
+3. **E-commerce Sites**:
+   - Reference product photography styles from:
+     - The Art of Shaving
+     - Beardbrand
+     - Dollar Shave Club
+   - Do NOT directly copy - use as inspiration only!
+
+### Quick Tips:
+
+- All filenames are CASE-SENSITIVE
+- Use EXACT names listed above
+- No spaces in filenames
+- Keep consistent style across all images
+- Test images display correctly on website
+
+### Current Status:
+
+The original project had these images:
+✅ Alpha_Beard_Oil.jpg - EXISTS
+✅ beard_oil.jpg - EXISTS
+✅ Ironclad_Aftershave.jpg - EXISTS
+✅ Midnight_Shave_Cream.jpg - EXISTS
+✅ Precision_Metal_Razor.jpg - EXISTS
+✅ Razor_Kit.jpg - EXISTS
+✅ Royal_Beard_Balm.jpg - EXISTS
+✅ shaving_cream.jpg - EXISTS
+❌ hero_dark.jpg - NEEDS TO BE ADDED
+
+Just copy the existing images from the original project and add hero_dark.jpg!
